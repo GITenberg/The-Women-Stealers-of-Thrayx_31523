@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35294'
     url: http://www.gutenberg.org/2009/agents/35294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31523#The-Women-Stealers-of-Thrayx
 gutenberg_issued: '2010-03-06'
 gutenberg_type: Text
 identifiers:
